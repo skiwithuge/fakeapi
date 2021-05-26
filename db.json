@@ -1,5 +1,5 @@
 {
-  "data":[{
+  "data": {
     "DocumentIncarnation": 4,
     "Events": [
       {
@@ -27,4 +27,5 @@
         "EventSource": "User"
       }
     ]
+  }
 }
