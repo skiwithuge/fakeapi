@@ -25,6 +25,30 @@
         "NotBefore": "",
         "Description": "",
         "EventSource": "User"
+      },
+      {
+        "EventId": "1AJZKAZ-2C03–4CDD-909C-3978ADDE016B",
+        "EventStatus": "Started",
+        "EventType": "Schedule",
+        "ResourceType": "VirtualMachine",
+        "Resources": [
+          "aib"
+        ],
+        "NotBefore": "Fri, 08 Jan 2021 17:54:48 GMT",
+        "Description": "",
+        "EventSource": "User"
+      },
+      {
+        "EventId": "1AJZKAZ-2C03–4CDD-909C-3978ADDE016B",
+        "EventStatus": "Started",
+        "EventType": "Other",
+        "ResourceType": "VirtualMachine",
+        "Resources": [
+          "aib"
+        ],
+        "NotBefore": "Fri, 08 Jan 2021 17:54:48 GMT",
+        "Description": "",
+        "EventSource": "User"
       }
     ]
   }
