@@ -13,12 +13,7 @@
         "NotBefore": "",
         "Description": "",
         "EventSource": "User"
-      }
-    ]
-  },
-  {
-    "DocumentIncarnation": 4,
-    "Events": [
+      },
       {
         "EventId": "1AJZKAZ-2C03–4CDD-909C-3978ADDE016B",
         "EventStatus": "Started",
@@ -32,5 +27,4 @@
         "EventSource": "User"
       }
     ]
-  }]
-}
+  }}
