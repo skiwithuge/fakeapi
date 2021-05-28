@@ -84,5 +84,22 @@
   "data3": {
     "DocumentIncarnation": 4,
     "Events": []
-  }
+  },
+  "data4": {
+    "DocumentIncarnation": 4,
+    "Events": [
+      {
+        "EventId": "128F6AAF-2C03–4CDD-909C-3978ADDE016B",
+        "EventStatus": "Started",
+        "EventType": "Redeploy",
+        "ResourceType": "VirtualMachine",
+        "Resources": [
+          "psql1"
+        ],
+        "NotBefore": "",
+        "Description": "",
+        "EventSource": "User"
+      }
+    ]
+  },  
 }
