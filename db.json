@@ -28,7 +28,7 @@
       },
       {
         "EventId": "1AJZKAZ-2C03–4CDD-909C-3978ADDE016B",
-        "EventStatus": "Started",
+        "EventStatus": "Scheduled",
         "EventType": "Schedule",
         "ResourceType": "VirtualMachine",
         "Resources": [
