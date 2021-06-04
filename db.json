@@ -131,8 +131,8 @@
       },
       {
         "EventId": "128F6AAF-2C03–4CDD-909C-3978ADDE016B",
-        "EventStatus": "Preempt",
-        "EventType": "Reboot",
+        "EventStatus": "Scheduled",
+        "EventType": "Preempt",
         "ResourceType": "VirtualMachine",
         "Resources": [
           "aib"
